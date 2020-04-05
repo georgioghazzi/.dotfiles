@@ -1,0 +1,1039 @@
+
+Mar 30 22:56 : player: played "Aya Nakamura - Copines (Clip officiel).mp3"
+Mar 30 22:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 22:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 22:56 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 30 22:56 : client: [0] opened from 127.0.0.1:40938
+Mar 30 22:57 : client: [1] opened from 127.0.0.1:40942
+Mar 30 22:57 : client: [1] closed
+Mar 30 22:59 : client: [2] opened from 127.0.0.1:41246
+Mar 30 22:59 : client: [2] closed
+Mar 30 22:59 : client: [3] opened from 127.0.0.1:41250
+Mar 30 22:59 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 30 22:59 : client: [3] closed
+Mar 30 22:59 : player: played "Aya Nakamura - Copines (Clip officiel).mp3"
+Mar 30 23:02 : client: [4] opened from 127.0.0.1:41378
+Mar 30 23:02 : client: [4] closed
+Mar 30 23:09 : client: [5] opened from 127.0.0.1:41952
+Mar 30 23:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 30 23:09 : client: [5] closed
+Mar 30 23:09 : player: played "Don't Let Me Down- The Chainsmokers ft. Daya Lyrics.mp3"
+Mar 30 23:13 : player: played "Jonas Blue, Liam Payne, Lennon Stella - Polaroid.mp3"
+Mar 30 23:16 : player: played "Maroon 5 - What Lovers Do ft. SZA.mp3"
+Mar 30 23:18 : client: [6] opened from 127.0.0.1:42358
+Mar 30 23:18 : client: [6] closed
+Mar 30 23:23 : player: played "Enrique Iglesias - Bailando (English Version) ft. Sean Paul, Descemer Bueno, Gente De Zona.mp3"
+Mar 30 23:27 : player: played "Katy Perry - Never Really Over (Official).mp3"
+Mar 30 23:27 : client: [7] opened from 127.0.0.1:42424
+Mar 30 23:27 : client: [7] closed
+Mar 30 23:31 : player: played "Calvin Harris, Sam Smith - Promises (Official Lyric Video).mp3"
+Mar 30 23:35 : player: played "Jason Derulo - Swalla (Lyrics) (feat. Nicki Minaj & Ty Dolla $ign).mp3"
+Mar 30 23:38 : player: played "David Guetta, Bebe Rexha & J Balvin - Say My Name (Official Video).mp3"
+Mar 30 23:42 : player: played "Dua Lipa - Be The One (Official Video).mp3"
+Mar 30 23:42 : client: [8] opened from 127.0.0.1:42570
+Mar 30 23:42 : client: [8] closed
+Mar 30 23:46 : client: [9] opened from 127.0.0.1:42592
+Mar 30 23:46 : client: [9] closed
+Mar 30 23:46 : client: [10] opened from 127.0.0.1:42596
+Mar 30 23:46 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 30 23:46 : client: [10] closed
+Mar 30 23:46 : player: played "Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie) [Official Video].mp3"
+Mar 30 23:50 : player: played "DADJU - Bob Marley (Clip Officiel).mp3"
+Mar 30 23:53 : client: [11] opened from 127.0.0.1:42660
+Mar 30 23:53 : client: [11] closed
+Mar 31 00:02 : client: [12] opened from 127.0.0.1:42726
+Mar 31 00:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 00:02 : client: [12] closed
+Mar 31 00:04 : player: played "Shawn Mendes - Treat You Better.mp3"
+Mar 31 00:06 : client: [13] opened from 127.0.0.1:43080
+Mar 31 00:06 : client: [13] closed
+Mar 31 00:12 : player: played "DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B.mp3"
+Mar 31 19:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 19:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 19:47 : client: [0] opened from 127.0.0.1:47556
+Mar 31 19:47 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 31 19:47 : client: [1] opened from 127.0.0.1:47560
+Mar 31 19:47 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 19:47 : client: [1] closed
+Mar 31 19:48 : player: played "DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B.mp3"
+Mar 31 19:48 : client: [2] opened from 127.0.0.1:47572
+Mar 31 19:48 : client: [2] closed
+Mar 31 19:48 : client: [3] opened from 127.0.0.1:47576
+Mar 31 19:48 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 19:48 : client: [3] closed
+Mar 31 19:50 : client: [4] opened from 127.0.0.1:47740
+Mar 31 19:50 : client: [4] closed
+Mar 31 19:50 : client: [5] opened from 127.0.0.1:47744
+Mar 31 19:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 19:50 : client: [5] closed
+Mar 31 19:50 : client: [6] opened from 127.0.0.1:47748
+Mar 31 19:51 : client: [6] closed
+Mar 31 19:51 : client: [7] opened from 127.0.0.1:47762
+Mar 31 19:51 : client: [7] closed
+Mar 31 19:52 : client: [8] opened from 127.0.0.1:47766
+Mar 31 19:52 : client: [8] closed
+Mar 31 19:52 : client: [9] opened from 127.0.0.1:47770
+Mar 31 19:52 : client: [9] closed
+Mar 31 19:55 : player: played "DJ Snake, Lil Jon - Turn Down for What (Official Video).mp3"
+Mar 31 20:00 : player: played "Coldplay Hymn For The Weekend.mp3"
+Mar 31 20:00 : client: [10] opened from 127.0.0.1:48930
+Mar 31 20:00 : client: [10] closed
+Mar 31 20:03 : player: played "Marwa Loud - Oh la Folle (Clip officiel).mp3"
+Mar 31 20:03 : client: [11] opened from 127.0.0.1:49028
+Mar 31 20:03 : client: [11] closed
+Mar 31 20:03 : client: [12] opened from 127.0.0.1:49032
+Mar 31 20:03 : client: [12] closed
+Mar 31 20:06 : client: [0] closed
+Mar 31 20:06 : player: played "Abou Debeing Ft Dadju - C'est Pas Bon ( Clip officiel ).mp3"
+Mar 31 20:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 20:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 20:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 20:09 : client: [0] opened from 127.0.0.1:46026
+Mar 31 20:10 : player: played "Abou Debeing Ft Dadju - C'est Pas Bon ( Clip officiel ).mp3"
+Mar 31 20:13 : player: played "Marwa Loud - Qu'est-ce que t'as (Clip Officiel).mp3"
+Mar 31 20:17 : player: played "French Montana - Unforgettable ft. Swae Lee (Official Music Video).mp3"
+Mar 31 20:20 : player: played "Aya Nakamura - Le Passé - Paroles.mp3"
+Mar 31 20:23 : player: played "Shawn Mendes, Camila Cabello - Señorita (Lyric Video).mp3"
+Mar 31 20:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 20:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 20:23 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 20:23 : client: [0] opened from 127.0.0.1:59794
+Mar 31 20:24 : player: played "Shawn Mendes, Camila Cabello - Señorita (Lyric Video).mp3"
+Mar 31 20:25 : client: [1] opened from 127.0.0.1:60008
+Mar 31 20:25 : client: [1] closed
+Mar 31 20:25 : client: [2] opened from 127.0.0.1:60012
+Mar 31 20:25 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 20:25 : client: [2] closed
+Mar 31 20:27 : player: played "DJ Snake, Lil Jon - Turn Down for What (Official Video).mp3"
+Mar 31 20:31 : player: played "Kaaris - Diarabi.mp3"
+Mar 31 20:31 : client: [3] opened from 127.0.0.1:60440
+Mar 31 20:31 : client: [3] closed
+Mar 31 20:35 : client: [4] opened from 127.0.0.1:60488
+Mar 31 20:35 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 20:35 : client: [4] closed
+Mar 31 20:38 : player: played "DADJU - Bob Marley (Clip Officiel).mp3"
+Mar 31 20:41 : player: played "Djadja.mp3"
+Mar 31 20:42 : client: [5] opened from 127.0.0.1:60770
+Mar 31 20:42 : client: [5] closed
+Mar 31 20:43 : client: [6] opened from 127.0.0.1:60790
+Mar 31 20:43 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 20:43 : client: [6] closed
+Mar 31 20:47 : player: played "Sia - Cheap Thrills ft. Sean Paul (Lyric Video).mp3"
+Mar 31 20:51 : player: played "MHD - Bébé (feat. Dadju).mp3"
+Mar 31 20:53 : client: [0] closed
+Mar 31 20:53 : client: [7] opened from 127.0.0.1:33130
+Mar 31 20:53 : client: [8] opened from 127.0.0.1:33134
+Mar 31 20:53 : client: [8] closed
+Mar 31 20:55 : player: played "DJ Snake, J. Balvin, Tyga - Loco Contigo.mp3"
+Mar 31 20:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 20:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 20:55 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 20:55 : client: [0] opened from 127.0.0.1:33338
+Mar 31 20:56 : player: played "DJ Snake, J. Balvin, Tyga - Loco Contigo.mp3"
+Mar 31 20:58 : client: [1] opened from 127.0.0.1:33376
+Mar 31 20:58 : client: [1] closed
+Mar 31 20:59 : client: [2] opened from 127.0.0.1:33384
+Mar 31 20:59 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 20:59 : client: [2] closed
+Mar 31 21:00 : player: played "Sam Smith, Normani - Dancing With A Stranger.mp3"
+Mar 31 21:04 : player: played "OneRepublic - Rescue Me.mp3"
+Mar 31 21:07 : player: played "Ed Sheeran ‒ South of the Border (Music Video) ft. Camila Cabello & Cardi B.mp3"
+Mar 31 21:09 : client: [3] opened from 127.0.0.1:33754
+Mar 31 21:09 : client: [3] closed
+Mar 31 21:09 : client: [4] opened from 127.0.0.1:33758
+Mar 31 21:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 21:09 : client: [4] closed
+Mar 31 21:10 : player: played "Aya Nakamura - Angela (Clip officiel).mp3"
+Mar 31 21:11 : client: [5] opened from 127.0.0.1:34198
+Mar 31 21:11 : client: [5] closed
+Mar 31 21:11 : client: [6] opened from 127.0.0.1:34202
+Mar 31 21:11 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 21:11 : client: [6] closed
+Mar 31 21:11 : client: [7] opened from 127.0.0.1:34206
+Mar 31 21:11 : client: [7] closed
+Mar 31 21:14 : player: played "Mr. Probz - Waves (Robin Schulz Remix Radio Edit).mp3"
+Mar 31 21:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 21:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 21:16 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 21:16 : client: [0] opened from 127.0.0.1:51938
+Mar 31 21:17 : player: played "Mr. Probz - Waves (Robin Schulz Remix Radio Edit).mp3"
+Mar 31 21:18 : client: [1] opened from 127.0.0.1:52078
+Mar 31 21:18 : client: [1] closed
+Mar 31 21:47 : client: [2] opened from 127.0.0.1:53506
+Mar 31 21:47 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 21:47 : client: [2] closed
+Mar 31 21:49 : player: played "Alec Benjamin - Let Me Down Slowly (feat. Alessia Cara) [Official Music Video].mp3"
+Mar 31 21:50 : client: [3] opened from 127.0.0.1:53670
+Mar 31 21:50 : client: [3] closed
+Mar 31 21:59 : client: [0] closed
+Mar 31 21:59 : client: [4] opened from 127.0.0.1:53860
+Mar 31 22:12 : player: played "Calvin Harris, Sam Smith - Promises (Official Lyric Video).mp3"
+Mar 31 22:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 22:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 22:21 : client: [0] opened from 127.0.0.1:41858
+Mar 31 22:21 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 31 22:21 : client: [1] opened from 127.0.0.1:41862
+Mar 31 22:21 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 22:21 : client: [1] closed
+Mar 31 22:23 : player: played "Calvin Harris, Sam Smith - Promises (Official Lyric Video).mp3"
+Mar 31 22:25 : client: [0] closed
+Mar 31 22:25 : client: [2] opened from 127.0.0.1:41984
+Mar 31 22:25 : client: [2] closed
+Mar 31 22:25 : client: [3] opened from 127.0.0.1:41988
+Mar 31 22:25 : client: [3] closed
+Mar 31 22:25 : client: [4] opened from 127.0.0.1:41992
+Mar 31 22:26 : client: [4] closed
+Mar 31 22:26 : client: [5] opened from 127.0.0.1:42000
+Mar 31 22:27 : client: [5] closed
+Mar 31 22:27 : client: [6] opened from 127.0.0.1:42078
+Mar 31 22:27 : client: [6] closed
+Mar 31 22:27 : client: [7] opened from 127.0.0.1:42082
+Mar 31 22:28 : player: played "Cut Off - Escuro (Original Mix).mp3"
+Mar 31 22:28 : client: [8] opened from 127.0.0.1:42086
+Mar 31 22:28 : client: [8] closed
+Mar 31 22:30 : client: [9] opened from 127.0.0.1:42528
+Mar 31 22:31 : client: [10] opened from 127.0.0.1:42544
+Mar 31 22:31 : client: [10] closed
+Mar 31 22:31 : client: [11] opened from 127.0.0.1:42548
+Mar 31 22:31 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 22:31 : client: [11] closed
+Mar 31 22:33 : player: played "Cut Off - Escuro (Original Mix).mp3"
+Mar 31 22:35 : client: [9] closed
+Mar 31 22:35 : client: [12] opened from 127.0.0.1:42768
+Mar 31 22:35 : client: [12] closed
+Mar 31 22:35 : client: [13] opened from 127.0.0.1:42772
+Mar 31 22:35 : client: [13] closed
+Mar 31 22:35 : client: [14] opened from 127.0.0.1:42776
+Mar 31 22:35 : player: played "GIMS, Maluma - Hola Señorita (Maria) [Official Video].mp3"
+Mar 31 22:35 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 22:36 : client: [14] closed
+Mar 31 22:36 : client: [15] opened from 127.0.0.1:42786
+Mar 31 22:36 : client: [15] closed
+Mar 31 22:37 : client: [16] opened from 127.0.0.1:42790
+Mar 31 22:37 : client: [16] closed
+Mar 31 22:37 : client: [17] opened from 127.0.0.1:42794
+Mar 31 22:37 : client: [17] closed
+Mar 31 22:37 : client: [18] opened from 127.0.0.1:42800
+Mar 31 22:37 : client: [18] closed
+Mar 31 22:38 : client: [19] opened from 127.0.0.1:42804
+Mar 31 22:38 : client: [19] closed
+Mar 31 22:38 : client: [20] opened from 127.0.0.1:42820
+Mar 31 22:38 : client: [20] closed
+Mar 31 22:39 : player: played "GIMS - La Même ft. Vianney (Clip Officiel).mp3"
+Mar 31 22:42 : player: played "Faya.mp3"
+Mar 31 22:42 : client: [21] opened from 127.0.0.1:43234
+Mar 31 22:42 : client: [21] closed
+Mar 31 22:42 : client: [22] opened from 127.0.0.1:43262
+Mar 31 22:43 : client: [22] closed
+Mar 31 22:43 : client: [23] opened from 127.0.0.1:43266
+Mar 31 22:44 : client: [24] opened from 127.0.0.1:43294
+Mar 31 22:44 : client: [24] closed
+Mar 31 22:47 : client: [23] closed
+Mar 31 22:48 : client: [25] opened from 127.0.0.1:43718
+Mar 31 22:48 : client: [25] closed
+Mar 31 22:48 : client: [26] opened from 127.0.0.1:43722
+Mar 31 22:48 : client: [26] closed
+Mar 31 22:55 : client: [27] opened from 127.0.0.1:43856
+Mar 31 22:55 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 22:55 : client: [27] closed
+Mar 31 22:55 : client: [28] opened from 127.0.0.1:43862
+Mar 31 22:55 : client: [28] closed
+Mar 31 23:00 : player: played "Sia - Cheap Thrills ft. Sean Paul (Lyric Video).mp3"
+Mar 31 23:01 : client: [29] opened from 127.0.0.1:44092
+Mar 31 23:01 : client: [29] closed
+Mar 31 23:14 : client: [30] opened from 127.0.0.1:44528
+Mar 31 23:14 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 31 23:14 : client: [30] closed
+Mar 31 23:14 : client: [31] opened from 127.0.0.1:44532
+Mar 31 23:14 : client: [31] closed
+Mar 31 23:24 : client: [7] closed
+Mar 31 23:24 : client: [32] opened from 127.0.0.1:44760
+Mar 31 23:24 : client: [32] closed
+Mar 31 23:24 : client: [33] opened from 127.0.0.1:44764
+Mar 31 23:25 : client: [33] closed
+Mar 31 23:25 : client: [34] opened from 127.0.0.1:44768
+Mar 31 23:25 : client: [34] closed
+Mar 31 23:25 : client: [35] opened from 127.0.0.1:44772
+Mar 31 23:25 : client: [35] closed
+Mar 31 23:25 : client: [36] opened from 127.0.0.1:44776
+Mar 31 23:25 : client: [36] closed
+Mar 31 23:25 : client: [37] opened from 127.0.0.1:44780
+Mar 31 23:26 : client: [37] closed
+Mar 31 23:26 : client: [38] opened from 127.0.0.1:44786
+Mar 31 23:26 : client: [38] closed
+Mar 31 23:26 : client: [39] opened from 127.0.0.1:44794
+Mar 31 23:27 : client: [39] closed
+Mar 31 23:27 : client: [40] opened from 127.0.0.1:44798
+Mar 31 23:27 : client: [40] closed
+Mar 31 23:27 : client: [41] opened from 127.0.0.1:44802
+Mar 31 23:28 : client: [41] closed
+Mar 31 23:28 : client: [42] opened from 127.0.0.1:44806
+Mar 31 23:29 : client: [42] closed
+Mar 31 23:29 : client: [43] opened from 127.0.0.1:44810
+Mar 31 23:29 : client: [43] closed
+Mar 31 23:29 : client: [44] opened from 127.0.0.1:44814
+Mar 31 23:29 : client: [44] closed
+Mar 31 23:29 : client: [45] opened from 127.0.0.1:44818
+Mar 31 23:33 : client: [45] closed
+Mar 31 23:33 : client: [46] opened from 127.0.0.1:45020
+Mar 31 23:49 : client: [46] closed
+Mar 31 23:49 : client: [47] opened from 127.0.0.1:45436
+Mar 31 23:50 : client: [47] closed
+Mar 31 23:50 : client: [48] opened from 127.0.0.1:45440
+Apr 01 00:20 : player: played "Marwa Loud - Billet (Clip Officiel).mp3"
+Apr 01 14:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 14:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 14:45 : client: [0] opened from 127.0.0.1:43330
+Apr 01 14:45 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 01 15:24 : player: played "Marwa Loud - Billet (Clip Officiel).mp3"
+Apr 01 15:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 15:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 15:37 : client: [0] opened from 127.0.0.1:55824
+Apr 01 15:37 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 01 16:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 16:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 16:22 : client: [0] opened from 127.0.0.1:51966
+Apr 01 16:22 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 01 16:23 : player: played "Marwa Loud - Billet (Clip Officiel).mp3"
+Apr 01 17:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 17:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 17:29 : client: [0] opened from 127.0.0.1:57026
+Apr 01 17:29 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 01 17:30 : player: played "Marwa Loud - Billet (Clip Officiel).mp3"
+Apr 01 17:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 17:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 17:38 : client: [0] opened from 127.0.0.1:43742
+Apr 01 17:38 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 01 18:07 : player: played "Marwa Loud - Billet (Clip Officiel).mp3"
+Apr 01 18:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 18:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 18:41 : client: [0] opened from 127.0.0.1:49380
+Apr 01 18:41 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 01 18:43 : player: played "Marwa Loud - Billet (Clip Officiel).mp3"
+Apr 01 22:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 22:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 22:03 : client: [0] opened from 127.0.0.1:33900
+Apr 01 22:03 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 01 22:05 : client: [1] opened from 127.0.0.1:34264
+Apr 01 22:05 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 01 22:05 : client: [1] closed
+Apr 01 22:05 : client: [2] opened from 127.0.0.1:34268
+Apr 01 22:05 : client: [2] closed
+Apr 01 22:06 : client: [3] opened from 127.0.0.1:34280
+Apr 01 22:06 : client: [3] closed
+Apr 01 22:08 : client: [4] opened from 127.0.0.1:34600
+Apr 01 22:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 01 22:08 : client: [4] closed
+Apr 01 22:08 : client: [5] opened from 127.0.0.1:34612
+Apr 01 22:08 : client: [5] closed
+Apr 01 22:08 : client: [6] opened from 127.0.0.1:34616
+Apr 01 22:08 : client: [6] closed
+Apr 01 22:09 : client: [7] opened from 127.0.0.1:34654
+Apr 01 22:09 : client: [7] closed
+Apr 01 22:16 : client: [8] opened from 127.0.0.1:34774
+Apr 01 22:16 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 01 22:16 : client: [8] closed
+Apr 01 22:16 : client: [9] opened from 127.0.0.1:34778
+Apr 01 22:16 : client: [9] closed
+Apr 01 22:43 : client: [10] opened from 127.0.0.1:35600
+Apr 01 22:43 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 01 22:43 : client: [10] closed
+Apr 01 22:45 : player: played "Rita Ora - Let You Love Me [Official Video].mp3"
+Apr 01 22:45 : client: [11] opened from 127.0.0.1:35646
+Apr 01 22:45 : client: [11] closed
+Apr 01 23:03 : client: [12] opened from 127.0.0.1:36560
+Apr 01 23:03 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 01 23:03 : client: [12] closed
+Apr 01 23:03 : client: [13] opened from 127.0.0.1:36564
+Apr 01 23:03 : client: [13] closed
+Apr 01 23:27 : client: [14] opened from 127.0.0.1:37250
+Apr 01 23:27 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 01 23:27 : client: [14] closed
+Apr 01 23:32 : player: played "Ed Sheeran - I See Fire (Kygo Remix).mp3"
+Apr 01 23:33 : client: [15] opened from 127.0.0.1:37344
+Apr 01 23:33 : client: [15] closed
+Apr 01 23:33 : client: [16] opened from 127.0.0.1:37350
+Apr 01 23:33 : client: [16] closed
+Apr 01 23:36 : player: played "L'Algérino - Andalé [Clip officiel B.O Les Déguns ].mp3"
+Apr 01 23:40 : player: played "Maître Gims - J'me tire (Clip officiel).mp3"
+Apr 01 23:43 : client: [17] opened from 127.0.0.1:37568
+Apr 01 23:43 : client: [17] closed
+Apr 01 23:52 : client: [18] opened from 127.0.0.1:37684
+Apr 01 23:52 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 01 23:52 : client: [18] closed
+Apr 01 23:53 : player: played "Kaaris - Diarabi.mp3"
+Apr 01 23:56 : player: played "Dua Lipa - Be The One (Official Video).mp3"
+Apr 02 00:00 : player: played "Maître GIMS - Mi Gna ft. Super Sako, Hayko (Clip Officiel).mp3"
+Apr 02 00:03 : player: played "GIMS - La Même ft. Vianney (Clip Officiel).mp3"
+Apr 02 00:04 : client: [19] opened from 127.0.0.1:37950
+Apr 02 00:04 : client: [19] closed
+Apr 02 00:27 : player: played "Maître Gims - Sapés comme jamais (Clip officiel) ft. Niska.mp3"
+Apr 02 11:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 11:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 11:36 : client: [0] opened from 127.0.0.1:55072
+Apr 02 11:36 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 11:41 : player: played "Maître Gims - Sapés comme jamais (Clip officiel) ft. Niska.mp3"
+Apr 02 11:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 11:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 11:41 : client: [0] opened from 127.0.0.1:35496
+Apr 02 11:41 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 11:44 : client: [1] opened from 127.0.0.1:35762
+Apr 02 11:44 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 11:44 : client: [1] closed
+Apr 02 11:46 : client: [2] opened from 127.0.0.1:36098
+Apr 02 11:46 : client: [2] closed
+Apr 02 11:46 : client: [3] opened from 127.0.0.1:36204
+Apr 02 11:46 : client: [3] closed
+Apr 02 11:46 : client: [4] opened from 127.0.0.1:36218
+Apr 02 11:46 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 11:46 : client: [4] closed
+Apr 02 11:48 : client: [5] opened from 127.0.0.1:36400
+Apr 02 11:48 : client: [5] closed
+Apr 02 11:48 : client: [6] opened from 127.0.0.1:36404
+Apr 02 11:48 : client: [6] closed
+Apr 02 11:51 : client: [7] opened from 127.0.0.1:36594
+Apr 02 11:51 : client: [7] closed
+Apr 02 11:52 : client: [8] opened from 127.0.0.1:36598
+Apr 02 11:52 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 11:52 : client: [8] closed
+Apr 02 11:52 : player: played "Jason Derulo - Swalla (feat. Nicki Minaj & Ty Dolla $ign) (Official Music Video).mp3"
+Apr 02 11:53 : client: [9] opened from 127.0.0.1:36692
+Apr 02 11:53 : client: [9] closed
+Apr 02 11:53 : client: [10] opened from 127.0.0.1:36716
+Apr 02 11:53 : client: [10] closed
+Apr 02 11:56 : client: [11] opened from 127.0.0.1:37298
+Apr 02 11:56 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 11:56 : client: [11] closed
+Apr 02 11:58 : client: [12] opened from 127.0.0.1:37320
+Apr 02 11:58 : client: [12] closed
+Apr 02 11:59 : client: [13] opened from 127.0.0.1:37332
+Apr 02 11:59 : client: [13] closed
+Apr 02 11:59 : client: [14] opened from 127.0.0.1:37338
+Apr 02 11:59 : client: [14] closed
+Apr 02 11:59 : client: [15] opened from 127.0.0.1:37344
+Apr 02 11:59 : client: [15] closed
+Apr 02 12:00 : client: [16] opened from 127.0.0.1:37356
+Apr 02 12:00 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 12:00 : client: [16] closed
+Apr 02 12:00 : client: [17] opened from 127.0.0.1:37374
+Apr 02 12:00 : client: [17] closed
+Apr 02 12:01 : client: [18] opened from 127.0.0.1:37384
+Apr 02 12:01 : client: [18] closed
+Apr 02 12:03 : client: [19] opened from 127.0.0.1:37422
+Apr 02 12:03 : client: [19] closed
+Apr 02 12:03 : client: [20] opened from 127.0.0.1:37434
+Apr 02 12:03 : client: [20] closed
+Apr 02 12:04 : client: [21] opened from 127.0.0.1:37454
+Apr 02 12:04 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 12:04 : client: [21] closed
+Apr 02 12:04 : client: [22] opened from 127.0.0.1:37460
+Apr 02 12:04 : client: [22] closed
+Apr 02 12:08 : player: played "Abou Debeing Ft Dadju - C'est Pas Bon ( Clip officiel ).mp3"
+Apr 02 12:10 : client: [23] opened from 127.0.0.1:37886
+Apr 02 12:10 : client: [23] closed
+Apr 02 12:12 : client: [24] opened from 127.0.0.1:37908
+Apr 02 12:12 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 12:12 : client: [24] closed
+Apr 02 12:13 : client: [25] opened from 127.0.0.1:37952
+Apr 02 12:13 : client: [25] closed
+Apr 02 12:15 : client: [26] opened from 127.0.0.1:38180
+Apr 02 12:15 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 12:15 : client: [26] closed
+Apr 02 12:16 : player: played "Maître Gims - J'me tire (Clip officiel).mp3"
+Apr 02 12:16 : client: [27] opened from 127.0.0.1:38190
+Apr 02 12:16 : client: [27] closed
+Apr 02 12:18 : client: [28] opened from 127.0.0.1:38198
+Apr 02 12:18 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 12:18 : client: [28] closed
+Apr 02 12:18 : client: [29] opened from 127.0.0.1:38202
+Apr 02 12:18 : client: [29] closed
+Apr 02 12:18 : client: [30] opened from 127.0.0.1:38208
+Apr 02 12:18 : client: [30] closed
+Apr 02 12:18 : client: [31] opened from 127.0.0.1:38212
+Apr 02 12:18 : client: [31] closed
+Apr 02 12:18 : client: [32] opened from 127.0.0.1:38216
+Apr 02 12:18 : client: [32] closed
+Apr 02 12:18 : client: [33] opened from 127.0.0.1:38220
+Apr 02 12:18 : client: [33] closed
+Apr 02 12:18 : client: [34] opened from 127.0.0.1:38224
+Apr 02 12:18 : client: [34] closed
+Apr 02 12:18 : client: [35] opened from 127.0.0.1:38230
+Apr 02 12:18 : client: [35] closed
+Apr 02 12:22 : client: [36] opened from 127.0.0.1:38254
+Apr 02 12:22 : client: [36] closed
+Apr 02 12:22 : client: [37] opened from 127.0.0.1:38262
+Apr 02 12:22 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 12:22 : client: [37] closed
+Apr 02 12:22 : player: played "Maître GIMS - Mi Gna ft. Super Sako, Hayko (Clip Officiel).mp3"
+Apr 02 12:24 : client: [38] opened from 127.0.0.1:38498
+Apr 02 12:24 : client: [38] closed
+Apr 02 12:25 : client: [39] opened from 127.0.0.1:38524
+Apr 02 12:25 : client: [39] closed
+Apr 02 12:26 : client: [40] opened from 127.0.0.1:38530
+Apr 02 12:26 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 12:26 : client: [40] closed
+Apr 02 12:27 : client: [41] opened from 127.0.0.1:38538
+Apr 02 12:27 : client: [41] closed
+Apr 02 12:29 : client: [42] opened from 127.0.0.1:38550
+Apr 02 12:29 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 12:29 : client: [42] closed
+Apr 02 12:30 : player: played "Rihanna - Love On The Brain (Lyric Video).mp3"
+Apr 02 12:32 : client: [43] opened from 127.0.0.1:38652
+Apr 02 12:32 : client: [43] closed
+Apr 02 12:42 : client: [44] opened from 127.0.0.1:39282
+Apr 02 12:42 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 12:42 : client: [44] closed
+Apr 02 12:44 : player: played "Sam Smith, Normani - Dancing With A Stranger.mp3"
+Apr 02 12:48 : client: [45] opened from 127.0.0.1:39534
+Apr 02 12:48 : client: [45] closed
+Apr 02 12:48 : client: [46] opened from 127.0.0.1:39538
+Apr 02 12:48 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 12:48 : client: [46] closed
+Apr 02 12:49 : player: played "Maître Gims - Bella (Clip officiel).mp3"
+Apr 02 12:49 : client: [47] opened from 127.0.0.1:39690
+Apr 02 12:49 : client: [47] closed
+Apr 02 12:54 : client: [48] opened from 127.0.0.1:39978
+Apr 02 12:54 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 12:54 : client: [48] closed
+Apr 02 12:56 : client: [49] opened from 127.0.0.1:40368
+Apr 02 12:56 : client: [49] closed
+Apr 02 13:00 : player: played "Calvin Harris, Dua Lipa - One Kiss (Official Video).mp3"
+Apr 02 13:00 : client: [50] opened from 127.0.0.1:40860
+Apr 02 13:00 : client: [50] closed
+Apr 02 13:07 : client: [51] opened from 127.0.0.1:41016
+Apr 02 13:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 13:07 : client: [51] closed
+Apr 02 13:07 : client: [52] opened from 127.0.0.1:41102
+Apr 02 13:07 : client: [52] closed
+Apr 02 13:11 : player: played "Bad Bunny feat. Drake - Mia ( Video Oficial ).mp3"
+Apr 02 13:14 : player: played "Maroon 5 - What Lovers Do ft. SZA.mp3"
+Apr 02 13:18 : player: played "Don't Let Me Down- The Chainsmokers ft. Daya Lyrics.mp3"
+Apr 02 13:18 : client: [53] opened from 127.0.0.1:42800
+Apr 02 13:18 : client: [53] closed
+Apr 02 13:54 : client: [54] opened from 127.0.0.1:44598
+Apr 02 13:54 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 13:54 : client: [54] closed
+Apr 02 13:54 : client: [55] opened from 127.0.0.1:44630
+Apr 02 13:54 : client: [55] closed
+Apr 02 13:55 : client: [56] opened from 127.0.0.1:44672
+Apr 02 13:55 : client: [56] closed
+Apr 02 13:58 : player: played "Rag'n'Bone Man - Human (Official Video).mp3"
+Apr 02 13:59 : client: [57] opened from 127.0.0.1:44906
+Apr 02 13:59 : client: [57] closed
+Apr 02 14:03 : client: [58] opened from 127.0.0.1:45016
+Apr 02 14:03 : client: [58] closed
+Apr 02 14:03 : client: [59] opened from 127.0.0.1:45020
+Apr 02 14:03 : client: [59] closed
+Apr 02 14:03 : client: [60] opened from 127.0.0.1:45024
+Apr 02 14:03 : client: [60] closed
+Apr 02 14:04 : client: [61] opened from 127.0.0.1:45116
+Apr 02 14:04 : client: [61] closed
+Apr 02 14:04 : client: [62] opened from 127.0.0.1:45130
+Apr 02 14:04 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 14:04 : client: [62] closed
+Apr 02 14:05 : client: [63] opened from 127.0.0.1:45142
+Apr 02 14:05 : client: [63] closed
+Apr 02 14:15 : client: [64] opened from 127.0.0.1:45512
+Apr 02 14:15 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 14:15 : client: [64] closed
+Apr 02 14:15 : client: [65] opened from 127.0.0.1:45516
+Apr 02 14:15 : client: [65] closed
+Apr 02 14:17 : client: [66] opened from 127.0.0.1:45576
+Apr 02 14:17 : client: [66] closed
+Apr 02 14:17 : client: [67] opened from 127.0.0.1:45580
+Apr 02 14:17 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 14:17 : client: [67] closed
+Apr 02 14:17 : client: [68] opened from 127.0.0.1:45584
+Apr 02 14:17 : client: [68] closed
+Apr 02 14:29 : client: [69] opened from 127.0.0.1:45916
+Apr 02 14:29 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 14:29 : client: [69] closed
+Apr 02 14:30 : client: [70] opened from 127.0.0.1:45926
+Apr 02 14:30 : client: [70] closed
+Apr 02 14:39 : client: [0] closed
+Apr 02 14:39 : player: played "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video].mp3"
+Apr 02 14:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 14:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 14:39 : client: [0] opened from 127.0.0.1:39204
+Apr 02 14:39 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 14:54 : client: [0] closed
+Apr 02 14:54 : player: played "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video].mp3"
+Apr 02 14:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 14:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 14:55 : client: [0] opened from 127.0.0.1:38644
+Apr 02 14:55 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 14:57 : player: played "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video].mp3"
+Apr 02 14:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 14:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 14:57 : client: [0] opened from 127.0.0.1:51370
+Apr 02 14:57 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 15:00 : player: played "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video].mp3"
+Apr 02 15:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:01 : client: [0] opened from 127.0.0.1:48766
+Apr 02 15:01 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 15:01 : player: played "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video].mp3"
+Apr 02 15:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:02 : client: [0] opened from 127.0.0.1:51818
+Apr 02 15:02 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 15:02 : player: played "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video].mp3"
+Apr 02 15:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:02 : client: [0] opened from 127.0.0.1:33736
+Apr 02 15:02 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 15:06 : player: played "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video].mp3"
+Apr 02 15:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:06 : client: [0] opened from 127.0.0.1:51236
+Apr 02 15:06 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 15:16 : client: [1] opened from 127.0.0.1:51472
+Apr 02 15:16 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 15:16 : client: [1] closed
+Apr 02 15:18 : player: played "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video].mp3"
+Apr 02 15:21 : client: [2] opened from 127.0.0.1:51704
+Apr 02 15:21 : client: [2] closed
+Apr 02 15:22 : client: [3] opened from 127.0.0.1:51710
+Apr 02 15:22 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 15:22 : client: [3] closed
+Apr 02 15:23 : player: played "My Way - Calvin Harris (Lyric).mp3"
+Apr 02 15:25 : client: [4] opened from 127.0.0.1:51724
+Apr 02 15:25 : client: [4] closed
+Apr 02 15:26 : client: [5] opened from 127.0.0.1:51736
+Apr 02 15:26 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 15:26 : client: [5] closed
+Apr 02 15:27 : client: [6] opened from 127.0.0.1:51740
+Apr 02 15:27 : client: [6] closed
+Apr 02 15:32 : client: [7] opened from 127.0.0.1:52000
+Apr 02 15:32 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 15:32 : client: [7] closed
+Apr 02 15:33 : player: played "Maroon 5 - What Lovers Do ft. SZA.mp3"
+Apr 02 15:34 : client: [8] opened from 127.0.0.1:52058
+Apr 02 15:34 : client: [8] closed
+Apr 02 15:36 : client: [9] opened from 127.0.0.1:52194
+Apr 02 15:36 : client: [9] closed
+Apr 02 15:51 : player: played "Enrique Iglesias - Bailando (English Version) ft. Sean Paul, Descemer Bueno, Gente De Zona.mp3"
+Apr 02 15:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:52 : client: [0] opened from 127.0.0.1:60072
+Apr 02 15:52 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 15:54 : player: played "Enrique Iglesias - Bailando (English Version) ft. Sean Paul, Descemer Bueno, Gente De Zona.mp3"
+Apr 02 15:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 15:55 : client: [0] opened from 127.0.0.1:42176
+Apr 02 15:55 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 22:30 : client: [1] opened from 127.0.0.1:43038
+Apr 02 22:30 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 22:30 : client: [1] closed
+Apr 02 22:32 : player: played "Enrique Iglesias - Bailando (English Version) ft. Sean Paul, Descemer Bueno, Gente De Zona.mp3"
+Apr 02 22:36 : player: played "Jason Derulo - Swalla (feat. Nicki Minaj & Ty Dolla $ign) (Official Music Video).mp3"
+Apr 02 22:39 : player: played "Rita Ora - Let You Love Me [Official Video].mp3"
+Apr 02 22:40 : client: [2] opened from 127.0.0.1:43432
+Apr 02 22:40 : client: [2] closed
+Apr 02 22:44 : player: played "Rag'n'Bone Man - Human (Official Video).mp3"
+Apr 02 22:48 : player: played "Justin Bieber - Love Yourself (Official Video) Tricorics Music TV.mp3"
+Apr 02 22:51 : player: played "Felix Jaehn - Ain't Nobody (Loves Me Better) (Official Video) ft. Jasmine Thompson.mp3"
+Apr 02 22:54 : player: played "Lartiste – Mafiosa feat. Caroliina (Clip Officiel).mp3"
+Apr 02 22:56 : client: [0] closed
+Apr 02 22:56 : player: played "Vald - Désaccordé.mp3"
+Apr 02 22:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 22:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 22:58 : client: [0] opened from 127.0.0.1:40786
+Apr 02 22:58 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 02 22:58 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 22:59 : player: played "Vald - Désaccordé.mp3"
+Apr 02 23:01 : client: [1] opened from 127.0.0.1:41276
+Apr 02 23:01 : client: [1] closed
+Apr 02 23:01 : client: [2] opened from 127.0.0.1:41280
+Apr 02 23:01 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 23:01 : client: [2] closed
+Apr 02 23:02 : client: [3] opened from 127.0.0.1:41344
+Apr 02 23:02 : client: [3] closed
+Apr 02 23:04 : client: [4] opened from 127.0.0.1:41480
+Apr 02 23:04 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 23:04 : client: [4] closed
+Apr 02 23:04 : client: [5] opened from 127.0.0.1:41490
+Apr 02 23:04 : client: [5] closed
+Apr 02 23:08 : client: [6] opened from 127.0.0.1:41548
+Apr 02 23:08 : client: [6] closed
+Apr 02 23:13 : client: [7] opened from 127.0.0.1:41838
+Apr 02 23:13 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 23:13 : client: [7] closed
+Apr 02 23:13 : client: [8] opened from 127.0.0.1:41842
+Apr 02 23:13 : client: [8] closed
+Apr 02 23:14 : client: [9] opened from 127.0.0.1:41900
+Apr 02 23:14 : client: [9] closed
+Apr 02 23:15 : client: [10] opened from 127.0.0.1:42012
+Apr 02 23:15 : client: [10] closed
+Apr 02 23:16 : client: [11] opened from 127.0.0.1:42184
+Apr 02 23:16 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 02 23:16 : client: [11] closed
+Apr 02 23:17 : player: played "J Balvin, Willy William - Mi Gente (Official Video).mp3"
+Apr 02 23:19 : client: [12] opened from 127.0.0.1:42230
+Apr 02 23:19 : client: [12] closed
+Apr 02 23:19 : client: [13] opened from 127.0.0.1:42292
+Apr 02 23:19 : client: [13] closed
+Apr 02 23:22 : player: played "Aya Nakamura - Sucette feat.Niska (clip vidéo).mp3"
+Apr 02 23:26 : player: played "Ed Sheeran Perfect Lyrics.mp3"
+Apr 02 23:31 : player: played "MHD - Bébé (feat. Dadju).mp3"
+Apr 02 23:32 : client: [14] opened from 127.0.0.1:42950
+Apr 02 23:32 : client: [14] closed
+Apr 03 00:00 : client: [15] opened from 127.0.0.1:45306
+Apr 03 00:00 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 00:00 : client: [15] closed
+Apr 03 00:02 : player: played "Luis Fonsi, Demi Lovato - Échame La Culpa (Video Oficial).mp3"
+Apr 03 00:05 : client: [16] opened from 127.0.0.1:45514
+Apr 03 00:05 : client: [16] closed
+Apr 03 00:23 : player: played "Naps (Ft. Soolking) - Favela (Clip Officiel).mp3"
+Apr 03 11:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 11:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 11:36 : client: [0] opened from 127.0.0.1:59258
+Apr 03 11:36 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 03 11:38 : client: [1] opened from 127.0.0.1:59520
+Apr 03 11:38 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 11:38 : client: [1] closed
+Apr 03 11:38 : client: [2] opened from 127.0.0.1:59524
+Apr 03 11:38 : client: [2] closed
+Apr 03 11:38 : client: [3] opened from 127.0.0.1:59528
+Apr 03 11:38 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 11:38 : client: [3] closed
+Apr 03 11:39 : player: played "Naps (Ft. Soolking) - Favela (Clip Officiel).mp3"
+Apr 03 11:43 : player: played "Rag'n'Bone Man - Human (Official Video).mp3"
+Apr 03 11:46 : player: played "Gesaffelstein & The Weeknd - Lost in the Fire (Official Video).mp3"
+Apr 03 11:50 : player: played "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video].mp3"
+Apr 03 11:51 : client: [4] opened from 127.0.0.1:60618
+Apr 03 11:51 : client: [4] closed
+Apr 03 11:52 : client: [5] opened from 127.0.0.1:60672
+Apr 03 11:52 : client: [5] closed
+Apr 03 11:55 : client: [0] closed
+Apr 03 11:55 : client: [6] opened from 127.0.0.1:60680
+Apr 03 11:57 : client: [6] closed
+Apr 03 11:57 : client: [7] opened from 127.0.0.1:60690
+Apr 03 12:00 : client: [7] closed
+Apr 03 12:00 : client: [8] opened from 127.0.0.1:60698
+Apr 03 12:02 : client: [9] opened from 127.0.0.1:60706
+Apr 03 12:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 12:02 : client: [9] closed
+Apr 03 12:02 : client: [10] opened from 127.0.0.1:60712
+Apr 03 12:02 : client: [10] closed
+Apr 03 12:02 : client: [8] closed
+Apr 03 12:02 : client: [11] opened from 127.0.0.1:60748
+Apr 03 12:02 : client: [11] closed
+Apr 03 12:02 : client: [12] opened from 127.0.0.1:60810
+Apr 03 12:03 : client: [12] closed
+Apr 03 12:03 : client: [13] opened from 127.0.0.1:60814
+Apr 03 12:04 : client: [14] opened from 127.0.0.1:60942
+Apr 03 12:04 : client: [14] closed
+Apr 03 12:04 : client: [15] opened from 127.0.0.1:60954
+Apr 03 12:04 : client: [15] closed
+Apr 03 12:05 : client: [16] opened from 127.0.0.1:32826
+Apr 03 12:05 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 12:05 : client: [16] closed
+Apr 03 12:08 : player: played "Nicky Jam x J. Balvin - X (EQUIS) Video Oficial Prod. Afro Bros & Jeon.mp3"
+Apr 03 12:08 : client: [17] opened from 127.0.0.1:33382
+Apr 03 12:08 : client: [17] closed
+Apr 03 12:12 : player: played "Hayden James - Just Friends (Official Video) ft. Boy Matthews.mp3"
+Apr 03 12:14 : client: [18] opened from 127.0.0.1:33748
+Apr 03 12:14 : client: [18] closed
+Apr 03 12:19 : player: played "Maroon 5 - Girls Like You ft. Cardi B (Volume 2).mp3"
+Apr 03 12:24 : player: played "Isaac Chambers - Move on (feat. Dub Princess).mp3"
+Apr 03 12:25 : client: [19] opened from 127.0.0.1:34442
+Apr 03 12:25 : client: [19] closed
+Apr 03 12:37 : client: [20] opened from 127.0.0.1:34802
+Apr 03 12:37 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 12:37 : client: [20] closed
+Apr 03 12:37 : client: [21] opened from 127.0.0.1:34806
+Apr 03 12:37 : client: [21] closed
+Apr 03 12:40 : client: [22] opened from 127.0.0.1:34968
+Apr 03 12:40 : client: [22] closed
+Apr 03 12:53 : player: played "Meduza - Piece Of Your Heart (Official Video) ft. Goodboys.mp3"
+Apr 03 12:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 12:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 12:54 : client: [0] opened from 127.0.0.1:36656
+Apr 03 12:54 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 03 14:32 : client: [1] opened from 127.0.0.1:38056
+Apr 03 14:32 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 14:32 : client: [1] closed
+Apr 03 14:33 : player: played "Meduza - Piece Of Your Heart (Official Video) ft. Goodboys.mp3"
+Apr 03 14:33 : client: [2] opened from 127.0.0.1:38140
+Apr 03 14:33 : client: [2] closed
+Apr 03 14:49 : client: [3] opened from 127.0.0.1:39050
+Apr 03 14:49 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 14:49 : client: [3] closed
+Apr 03 14:52 : player: played "Shawn Mendes, Camila Cabello – Señorita (Lyrics).mp3"
+Apr 03 14:55 : player: played "Major Lazer & DJ Snake - Lean On (feat. MØ) (Official Music Video).mp3"
+Apr 03 14:58 : client: [4] opened from 127.0.0.1:39254
+Apr 03 14:58 : client: [4] closed
+Apr 03 15:34 : client: [5] opened from 127.0.0.1:41780
+Apr 03 15:34 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 15:34 : client: [5] closed
+Apr 03 15:34 : client: [6] opened from 127.0.0.1:41784
+Apr 03 15:34 : client: [6] closed
+Apr 03 17:33 : client: [7] opened from 127.0.0.1:46482
+Apr 03 17:33 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 17:33 : client: [7] closed
+Apr 03 17:33 : client: [8] opened from 127.0.0.1:46526
+Apr 03 17:33 : client: [8] closed
+Apr 03 18:45 : client: [9] opened from 127.0.0.1:50034
+Apr 03 18:45 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 18:45 : client: [9] closed
+Apr 03 18:46 : player: played "GIMS - Caméléon (Clip Officiel).mp3"
+Apr 03 18:49 : player: played "Aya Nakamura - Comportement (Clip officiel).mp3"
+Apr 03 18:52 : client: [10] opened from 127.0.0.1:50226
+Apr 03 18:52 : client: [10] closed
+Apr 03 18:54 : client: [11] opened from 127.0.0.1:50296
+Apr 03 18:54 : client: [11] closed
+Apr 03 18:55 : client: [12] opened from 127.0.0.1:50360
+Apr 03 18:55 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 18:55 : client: [12] closed
+Apr 03 18:57 : player: played "Nicky Jam x J. Balvin - X (EQUIS) Video Oficial Prod. Afro Bros & Jeon.mp3"
+Apr 03 18:58 : client: [13] opened from 127.0.0.1:50384
+Apr 03 18:58 : client: [13] closed
+Apr 03 18:59 : client: [14] opened from 127.0.0.1:50450
+Apr 03 18:59 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 18:59 : client: [14] closed
+Apr 03 19:00 : client: [15] opened from 127.0.0.1:50494
+Apr 03 19:00 : client: [15] closed
+Apr 03 19:16 : client: [16] opened from 127.0.0.1:50854
+Apr 03 19:16 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 19:16 : client: [16] closed
+Apr 03 19:16 : client: [17] opened from 127.0.0.1:51022
+Apr 03 19:16 : client: [17] closed
+Apr 03 19:20 : client: [18] opened from 127.0.0.1:51068
+Apr 03 19:20 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 19:20 : client: [18] closed
+Apr 03 19:20 : client: [19] opened from 127.0.0.1:51072
+Apr 03 19:20 : client: [19] closed
+Apr 03 19:31 : client: [20] opened from 127.0.0.1:51682
+Apr 03 19:31 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 19:31 : client: [20] closed
+Apr 03 19:32 : player: played "GIMS - Corazon ft. Lil Wayne & French Montana (Clip Officiel).mp3"
+Apr 03 19:35 : client: [21] opened from 127.0.0.1:52662
+Apr 03 19:35 : client: [21] closed
+Apr 03 19:47 : client: [22] opened from 127.0.0.1:53538
+Apr 03 19:47 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 19:47 : client: [22] closed
+Apr 03 19:47 : client: [23] opened from 127.0.0.1:53786
+Apr 03 19:47 : client: [23] closed
+Apr 03 19:53 : client: [24] opened from 127.0.0.1:54142
+Apr 03 19:53 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 03 19:53 : client: [24] closed
+Apr 03 19:54 : player: played "French Montana - Unforgettable ft. Swae Lee (Official Music Video).mp3"
+Apr 03 19:56 : player: played "Aya Nakamura - Angela (Clip officiel).mp3"
+Apr 03 19:56 : client: [25] opened from 127.0.0.1:54366
+Apr 03 19:57 : client: [26] opened from 127.0.0.1:54466
+Apr 03 19:57 : client: [26] closed
+Apr 03 19:57 : client: [25] closed
+Apr 03 19:57 : client: [27] opened from 127.0.0.1:54472
+Apr 03 19:57 : client: [27] closed
+Apr 03 19:57 : client: [28] opened from 127.0.0.1:54476
+Apr 03 19:57 : client: [28] closed
+Apr 03 20:00 : player: played "Aya Nakamura - Djadja (Clip officiel).mp3"
+Apr 03 20:04 : player: played "DADJU - Compliqué (Clip Officiel).mp3"
+Apr 03 20:07 : player: played "Lartiste – Mafiosa feat. Caroliina (Clip Officiel).mp3"
+Apr 03 20:11 : player: played "Bramsito - Sale mood ft. Booba.mp3"
+Apr 03 20:15 : client: [29] opened from 127.0.0.1:57300
+Apr 03 20:15 : client: [29] closed
+Apr 04 22:44 : client: [30] opened from 127.0.0.1:59706
+Apr 04 22:44 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 04 22:44 : client: [30] closed
+Apr 04 22:44 : client: [31] opened from 127.0.0.1:59710
+Apr 04 22:44 : client: [31] closed
+Apr 04 23:08 : player: played "Maître Gims - Bella (Clip officiel).mp3"
+Apr 05 12:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 12:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 12:17 : client: [0] opened from 127.0.0.1:34782
+Apr 05 12:17 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 05 12:35 : client: [1] opened from 127.0.0.1:35854
+Apr 05 12:35 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 12:35 : client: [1] closed
+Apr 05 12:36 : player: played "Maître Gims - Bella (Clip officiel).mp3"
+Apr 05 12:36 : client: [2] opened from 127.0.0.1:35900
+Apr 05 12:36 : client: [2] closed
+Apr 05 13:14 : client: [0] closed
+Apr 05 13:14 : client: [3] opened from 127.0.0.1:37092
+Apr 05 13:15 : client: [4] opened from 127.0.0.1:37258
+Apr 05 13:15 : client: [4] closed
+Apr 05 13:16 : client: [3] closed
+Apr 05 13:16 : client: [5] opened from 127.0.0.1:37388
+Apr 05 15:08 : client: [6] opened from 127.0.0.1:37402
+Apr 05 15:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 15:08 : client: [6] closed
+Apr 05 15:09 : client: [5] closed
+Apr 05 15:09 : client: [7] opened from 127.0.0.1:37658
+Apr 05 15:10 : client: [7] closed
+Apr 05 15:10 : client: [8] opened from 127.0.0.1:37670
+Apr 05 15:10 : client: [8] closed
+Apr 05 15:10 : client: [9] opened from 127.0.0.1:37680
+Apr 05 15:11 : client: [9] closed
+Apr 05 15:11 : client: [10] opened from 127.0.0.1:37686
+Apr 05 15:11 : player: played "Djadja.mp3"
+Apr 05 15:11 : player: played "MHD - Bébé (feat. Dadju).mp3"
+Apr 05 15:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 15:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 15:11 : client: [0] opened from 127.0.0.1:44714
+Apr 05 15:11 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 05 15:11 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 15:13 : client: [0] closed
+Apr 05 15:13 : client: [1] opened from 127.0.0.1:44902
+Apr 05 15:13 : client: [1] closed
+Apr 05 15:13 : client: [2] opened from 127.0.0.1:44906
+Apr 05 15:14 : client: [2] closed
+Apr 05 15:14 : client: [3] opened from 127.0.0.1:44910
+Apr 05 15:15 : client: [3] closed
+Apr 05 15:15 : client: [4] opened from 127.0.0.1:44914
+Apr 05 15:15 : client: [4] closed
+Apr 05 15:15 : client: [5] opened from 127.0.0.1:44918
+Apr 05 15:16 : player: played "MHD - Bébé (feat. Dadju).mp3"
+Apr 05 15:19 : player: played "Lartiste – Mafiosa feat. Caroliina (Clip Officiel).mp3"
+Apr 05 15:23 : player: played "Mr. Probz - Waves (Robin Schulz Remix Radio Edit).mp3"
+Apr 05 15:23 : client: [6] opened from 127.0.0.1:45484
+Apr 05 15:23 : client: [6] closed
+Apr 05 15:23 : client: [7] opened from 127.0.0.1:45488
+Apr 05 15:23 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 15:23 : client: [7] closed
+Apr 05 15:23 : client: [5] closed
+Apr 05 15:23 : client: [8] opened from 127.0.0.1:45498
+Apr 05 15:24 : client: [8] closed
+Apr 05 15:24 : client: [9] opened from 127.0.0.1:45502
+Apr 05 15:27 : player: played "Ed Sheeran Perfect Lyrics.mp3"
+Apr 05 15:29 : client: [9] closed
+Apr 05 15:29 : client: [10] opened from 127.0.0.1:45882
+Apr 05 15:31 : player: played "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video].mp3"
+Apr 05 15:33 : client: [10] closed
+Apr 05 15:33 : client: [11] opened from 127.0.0.1:45906
+Apr 05 15:33 : client: [11] closed
+Apr 05 15:33 : client: [12] opened from 127.0.0.1:45918
+Apr 05 15:33 : client: [12] closed
+Apr 05 15:33 : client: [13] opened from 127.0.0.1:45924
+Apr 05 15:33 : client: [13] closed
+Apr 05 15:33 : client: [14] opened from 127.0.0.1:45928
+Apr 05 15:34 : player: played "Marwa Loud - Oh la Folle (Clip officiel).mp3"
+Apr 05 15:35 : client: [14] closed
+Apr 05 15:35 : client: [15] opened from 127.0.0.1:45938
+Apr 05 15:36 : client: [15] closed
+Apr 05 15:36 : client: [16] opened from 127.0.0.1:46000
+Apr 05 15:37 : player: played "6ix9ine, Nicki Minaj, Murda Beatz - “FEFE” (Official Music Video).mp3"
+Apr 05 15:37 : client: [16] closed
+Apr 05 15:37 : client: [17] opened from 127.0.0.1:46014
+Apr 05 15:38 : client: [17] closed
+Apr 05 15:38 : client: [18] opened from 127.0.0.1:46028
+Apr 05 15:42 : player: played "Maroon 5 - Girls Like You ft. Cardi B (Volume 2).mp3"
+Apr 05 15:42 : player: played "Naps (Ft. Soolking) - Favela (Clip Officiel).mp3"
+Apr 05 15:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 15:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 15:42 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 15:42 : client: [0] opened from 127.0.0.1:43228
+Apr 05 15:43 : client: [0] closed
+Apr 05 15:43 : player: played "Naps (Ft. Soolking) - Favela (Clip Officiel).mp3"
+Apr 05 15:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 15:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 15:43 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 15:43 : client: [0] opened from 127.0.0.1:55176
+Apr 05 15:45 : client: [1] opened from 127.0.0.1:55324
+Apr 05 15:45 : client: [1] closed
+Apr 05 15:45 : client: [2] opened from 127.0.0.1:55328
+Apr 05 15:45 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 15:45 : client: [2] closed
+Apr 05 15:46 : player: played "Naps (Ft. Soolking) - Favela (Clip Officiel).mp3"
+Apr 05 15:48 : client: [3] opened from 127.0.0.1:55500
+Apr 05 15:48 : client: [3] closed
+Apr 05 15:54 : client: [4] opened from 127.0.0.1:55660
+Apr 05 15:54 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 15:54 : client: [4] closed
+Apr 05 15:55 : client: [5] opened from 127.0.0.1:55666
+Apr 05 15:55 : client: [5] closed
+Apr 05 15:58 : client: [6] opened from 127.0.0.1:55798
+Apr 05 15:58 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 15:58 : client: [6] closed
+Apr 05 15:59 : player: played "Bad Bunny feat. Drake - Mia ( Video Oficial ).mp3"
+Apr 05 16:02 : player: played "Mike Posner - I Took A Pill In Ibiza (Seeb Remix) (Explicit).mp3"
+Apr 05 16:04 : client: [7] opened from 127.0.0.1:56056
+Apr 05 16:04 : client: [7] closed
+Apr 05 16:05 : client: [8] opened from 127.0.0.1:56060
+Apr 05 16:05 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 16:05 : client: [8] closed
+Apr 05 16:08 : client: [9] opened from 127.0.0.1:56210
+Apr 05 16:08 : client: [9] closed
+Apr 05 16:08 : client: [10] opened from 127.0.0.1:56220
+Apr 05 16:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 16:08 : client: [10] closed
+Apr 05 16:09 : player: played "Jonas Blue - What I Like About You ft. Theresa Rex.mp3"
+Apr 05 16:11 : client: [11] opened from 127.0.0.1:56358
+Apr 05 16:11 : client: [11] closed
+Apr 05 16:13 : client: [12] opened from 127.0.0.1:56474
+Apr 05 16:13 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 16:13 : client: [12] closed
+Apr 05 16:14 : player: played "Soldat.mp3"
+Apr 05 16:15 : client: [13] opened from 127.0.0.1:56500
+Apr 05 16:15 : client: [13] closed
+Apr 05 16:16 : client: [14] opened from 127.0.0.1:56550
+Apr 05 16:16 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 16:16 : client: [14] closed
+Apr 05 16:16 : client: [15] opened from 127.0.0.1:56604
+Apr 05 16:16 : client: [15] closed
+Apr 05 16:19 : player: played "Ed Sheeran Perfect Lyrics.mp3"
+Apr 05 16:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 16:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 16:19 : client: [0] opened from 127.0.0.1:41976
+Apr 05 16:19 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 05 16:19 : client: [1] opened from 127.0.0.1:42028
+Apr 05 16:19 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 16:19 : client: [1] closed
+Apr 05 16:20 : client: [2] opened from 127.0.0.1:42222
+Apr 05 16:20 : client: [2] closed
+Apr 05 16:20 : client: [3] opened from 127.0.0.1:42498
+Apr 05 16:20 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 16:20 : client: [3] closed
+Apr 05 16:21 : client: [4] opened from 127.0.0.1:42534
+Apr 05 16:21 : client: [4] closed
+Apr 05 16:21 : client: [5] opened from 127.0.0.1:42630
+Apr 05 16:21 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 16:21 : client: [5] closed
+Apr 05 16:21 : client: [6] opened from 127.0.0.1:42636
+Apr 05 16:21 : client: [6] closed
+Apr 05 16:23 : client: [7] opened from 127.0.0.1:42762
+Apr 05 16:23 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 16:23 : client: [7] closed
+Apr 05 16:25 : player: played "Ed Sheeran Perfect Lyrics.mp3"
+Apr 05 16:28 : client: [8] opened from 127.0.0.1:43134
+Apr 05 16:28 : client: [8] closed
+Apr 05 16:30 : client: [9] opened from 127.0.0.1:43482
+Apr 05 16:30 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 16:30 : client: [9] closed
+Apr 05 16:31 : player: played "Clean Bandit - Solo (feat. Demi Lovato) [Official Video].mp3"
+Apr 05 16:36 : player: played "Khalid & Normani - Love Lies (Official Video).mp3"
+Apr 05 16:39 : player: played "Shawn Mendes, Camila Cabello - Señorita (Lyric Video).mp3"
+Apr 05 16:42 : player: played "Felix Jaehn - Ain't Nobody (Loves Me Better) (Official Video) ft. Jasmine Thompson.mp3"
+Apr 05 16:47 : player: played "French Montana - Unforgettable ft. Swae Lee (Official Music Video).mp3"
+Apr 05 16:51 : player: played "Imagine Dragons - Bad Liar.mp3"
+Apr 05 16:57 : client: [10] opened from 127.0.0.1:44230
+Apr 05 16:57 : client: [10] closed
+Apr 05 16:59 : client: [11] opened from 127.0.0.1:44248
+Apr 05 16:59 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 16:59 : client: [11] closed
+Apr 05 16:59 : player: played "Hakan Akkus - I Can't Be (Drop G & Regard Remix 2017).mp3"
+Apr 05 17:00 : client: [12] opened from 127.0.0.1:44376
+Apr 05 17:00 : client: [12] closed
+Apr 05 17:02 : client: [13] opened from 127.0.0.1:44430
+Apr 05 17:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 17:02 : client: [13] closed
+Apr 05 17:03 : client: [14] opened from 127.0.0.1:44462
+Apr 05 17:03 : client: [14] closed
+Apr 05 17:03 : client: [15] opened from 127.0.0.1:44466
+Apr 05 17:03 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 17:03 : client: [15] closed
+Apr 05 17:04 : client: [16] opened from 127.0.0.1:44472
+Apr 05 17:04 : client: [16] closed
+Apr 05 17:04 : client: [17] opened from 127.0.0.1:44486
+Apr 05 17:04 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 17:04 : client: [17] closed
+Apr 05 17:06 : client: [18] opened from 127.0.0.1:44596
+Apr 05 17:06 : client: [18] closed
+Apr 05 17:17 : client: [19] opened from 127.0.0.1:45198
+Apr 05 17:17 : client: [19] closed
+Apr 05 17:21 : client: [20] opened from 127.0.0.1:45650
+Apr 05 17:21 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Apr 05 17:21 : client: [20] closed
+Apr 05 17:21 : client: [21] opened from 127.0.0.1:45654
+Apr 05 17:21 : client: [21] closed

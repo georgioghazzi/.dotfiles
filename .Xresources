@@ -1,0 +1,90 @@
+!--------------!
+! URXVT CONFIG !
+!--------------!
+
+URxvt.internalBorder:	30
+URxvt.scrollBar:	false
+URxvt.letterSpace:	-1
+URxvt.cursorColor:	#eeeeee
+URxvt.font: xft:Hack:size=10, xft:Font Awesome 5 Free Solid:size=10
+!! Larger history limit
+urxvt.saveLines: 1000000
+
+!! Perl extensions
+urxvt.perl-ext-common: default,matcher,resize-font,selection-to-clipboard
+!! Open urls in browser with Control-Click
+urxvt.urlLauncher: /usr/bin/firefox
+urxvt.matcher.button: C1
+!! Font-size
+URxvt.keysym.C-minus:     resize-font:smaller
+URxvt.keysym.C-plus:      resize-font:bigger
+URxvt.keysym.C-equal:     resize-font:reset
+URxvt.keysym.C-question:  resize-font:show
+
+!-------------!
+! ROFI CONFIG !
+!-------------!
+
+! state			background	border		separator
+rofi.color-window:	#ffffff,	#191919,	#191919	
+
+! state			bg		fg		abg		hbg		hfg
+rofi.color-normal:	#ffffff,	#191919,	#ffffff,	#191919,	#ffffff
+
+! general
+rofi.width: 33
+rofi.padding: 30
+rofi.hide-scrollbar: true
+rofi.borderwidth: 0
+rofi.columns: 1
+rofi.lines: 5
+rofi.separator-style: solid
+rofi.font: Hack 10
+
+rofi.color-enabled: true
+!rofi.color-window: #f2a2f0, #f2a2f0, #f2a2f0
+!rofi.color-normal: #f2a2f0, #f2a2f0, #f2a2f0
+
+! ------------------------------------------------------------------------------
+! theme colors
+! ------------------------------------------------------------------------------
+URxvt*foreground:   #fcfcfc
+URxvt*background:   #232629
+URxvt*cursorColor:  #1abc9c
+
+! black
+URxvt*color0:       #31363b
+URxvt*color8:       #4d4d4d
+
+! red
+URxvt*color1:       #ed2929
+URxvt*color9:       #ed1515
+
+!green
+URxvt*color2:       #21d96d
+URxvt*color10:      #0bd961
+
+!yellow
+URxvt*color3:       #fcc74c
+URxvt*color11:      #fde04b
+
+!blue
+URxvt*color4:       #3daee9
+URxvt*color12:      #3d95e9
+
+!magenta
+URxvt*color5:       #9847b5
+URxvt*color13:      #a94fc9
+
+!cyan
+URxvt*color6:       #1abc9c
+URxvt*color14:      #1cdc9a
+!white
+URxvt*color7:       #eff0f1
+URxvt*color15: #fcfcfc
+
+!transparency
+URxvt.transparent:      true
+URxvt.shading: 25
+
+export PS1="\[$(tput bold)\]\[$(tput setaf 1)\][\[$(tput setaf 3)\]\u\[$(tput setaf 2)\]@\[$(tput setaf 6)\]\h \[$(tput setaf 5)\]\W\[$(tput setaf 1)\]]\[$(tput setaf 7)\]\\$ \[$(tput sgr0)\]":
