@@ -61,7 +61,7 @@ modules-right = xkeyboard ping memory backlight ip-wlan ip-eth  battery temperat
 tray-position = right
 tray-padding = 6
 tray-background = #000000
-;tray-transparent = true
+ltray-transparent = true
 
 ;wm-restack = bspwm
 ;wm-restack = i3
