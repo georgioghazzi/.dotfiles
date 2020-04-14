@@ -15,8 +15,8 @@ MONITOR=$(polybar --list-monitors | cut -d":" -f1)
 
 
 if [ $MONITOR == 'HDMI-0' ]
-then echo polybar desktop &
-else echo polybar laptop &
+then  polybar desktop &
+else  polybar laptop &
 fi
 #polybar main &
 
