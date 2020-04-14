@@ -7,6 +7,17 @@ killall -q polybar
 while pgrep -x polybar >/dev/null; do sleep 1; done
 
 # Launch bar1 and bar2
-polybar main &
+
+
+MONITOR=$(polybar --list-monitors | cut -d":" -f1)
+
+
+
+
+if [ $MONITOR == 'HDMI-0' ]
+then echo polybar desktop &
+else echo polybar laptop &
+fi
+#polybar main &
 
 
