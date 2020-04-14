@@ -13,7 +13,7 @@ width = 100%
 height = 27
 
 
-background = ${colors.background}
+background = ${colors.background}e
 foreground = ${colors.foreground}
 
 
@@ -38,6 +38,39 @@ tray-position = right
 tray-padding = 6
 tray-background = #000000
 ltray-transparent = true
+
+
+[bar/desktop]
+width = 100%
+height = 27
+
+
+background = ${colors.background}e
+foreground = ${colors.foreground}
+
+
+padding-left = 1
+padding-right = 1
+
+module-margin-left = 1
+module-margin-right = 1
+
+font-0 = Roboto Mono:pixelsize=9;1
+font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
+font-2 = FontAwesome:pixelsize=11;1
+font-3 = FontAwesome5Free:style=Solid:size=11;1
+font-4 = FontAwesome5Free:style=Regular:size=11;1
+font-5 = FontAwesome5Brands:style=Regular:size=11;1
+
+modules-left =i3 mpd-local
+modules-center =date time 
+modules-right = xkeyboard ping ip-eth-desktop  memory temperature-desktop volume poweroff
+
+tray-position = right
+tray-padding = 6
+tray-background = #000000
+ltray-transparent = true
+
 
 [module/bspwm]
 type = internal/bspwm
@@ -205,6 +238,11 @@ type= internal/network
 interface = enp7s0
 label-connected = "  %local_ip% "
 
+[module/ip-eth-desktop]
+type= internal/network
+interface = enp3s0
+label-connected = "  %local_ip% "
+
 [module/battery]
 type = internal/battery
 ; Use $ ls -1 /sys/class/power_supply/
@@ -261,7 +299,30 @@ ramp-1 = 
 ramp-2 = 
 ramp-foreground = ${colors.foreground-alt}
 
- 
+[module/temperature-desktop]
+type = internal/temperature
+interval = 0.5
+thermal-zone = 0
+base-temperature = 20
+warn-temperature = 63
+
+units = true
+hwmon-path = /sys/devices/platform/coretemp.0/hwmon/hwmon1/temp1_input
+
+
+format = <label>
+format-underline = #ffb52a
+format-warn = <label-warn>
+format-warn-underline = #fc4141
+
+label = " %temperature-c%"
+label-warn = " %temperature-c%"
+label-warn-foreground = ${colors.secondary}
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+ramp-foreground = ${colors.foreground-alt}
 
 [module/backlight]
 type = internal/backlight

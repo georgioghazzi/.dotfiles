@@ -15,8 +15,12 @@ MONITOR=$(polybar --list-monitors | cut -d":" -f1)
 
 
 if [ $MONITOR == 'HDMI-0' ]
-then  polybar desktop &
-else  polybar laptop &
+then  
+export ETH=$(ip -o link show | awk -F': ' '{print $2}' | grep enp)
+polybar desktop &
+else 
+
+ polybar laptop &
 fi
 #polybar main &
 
