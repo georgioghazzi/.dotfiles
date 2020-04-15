@@ -191,6 +191,7 @@ exec_always --no-startup-id greenclip daemon                                    
 
 for_window [class="Termite" title="FLOATING_TERMITE"] floating enable
 assign [class="firefox"] $ws2
+assign [class="Google-chrome"] $ws2
 assign [class="code-oss"] $ws3
 assign [class="Franz"] $ws4
 assign [class="discord"] $ws5
