@@ -1,3 +1,3 @@
 #!/bin/sh
-termite -e task
+termite -e 'bash ;task'
 ~/.config/i3/scripts/login-quotes.sh
