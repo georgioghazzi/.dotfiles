@@ -161,7 +161,6 @@ bindsym $mod+p exec mpc toggle                                                  
 bindsym $mod+n exec mpc next                                                                                            #Next Song
 bindsym $mod+b exec mpc prev                                                                                            #Prev Song
 
-
  ###############
  #  Autostart  #
  ###############

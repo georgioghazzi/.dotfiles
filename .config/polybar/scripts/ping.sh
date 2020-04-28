@@ -1,6 +1,6 @@
 #!/bin/sh
 
-HOST=10.0.25.10
+HOST=1.1.1.1
 
 if ! ping=$(ping -n -c 1 -W 1 $HOST); then
     echo "# ping failed"

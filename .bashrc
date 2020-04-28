@@ -14,6 +14,24 @@ fi
 
 
 export TERM=xterm-256color
+
+export PATH=~/.npm-global/bin:$PATH
+
+
+export ANDROID_SDK_ROOT=/opt/android-sdk
+export PATH=$PATH:$ANDROID_SDK_ROOT/tools/bin
+export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools
+export PATH=$PATH:$ANDROID_SDK_ROOT/emulator
+
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk
+export PATH=${PATH}:${JAVA_HOME}/bin
+
+
+
+
+
+
+
 PS1="\[$(tput bold)\]\[$(tput setaf 1)\][\[$(tput setaf 3)\]\u\[$(tput setaf 2)\]@\[$(tput setaf 6)\]\h \[$(tput setaf 5)\]\W\[$(tput setaf 1)\]]\[$(tput setaf 7)\]\\$ \[$(tput sgr0)\]"
 
 
