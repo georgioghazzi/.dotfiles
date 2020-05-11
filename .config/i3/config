@@ -177,7 +177,7 @@ exec --no-startup-id /usr/bin/discord
 exec_always --no-startup-id xautolock -time 10 -locker 'betterlockscreen -l dim'                                        #Autolock after 10mins
 exec_always mopidy 
 exec_always --no-startup-id xautolock -time 20 -locker 'systemctl suspend'                                              #Auto suspend after 20mins
-exec --no-startup-id compton -cb --config ~/.config/compton/compton.conf                                                #Load compton configuration
+exec --no-startup-id picom -cb
 exec --no-startup-id betterlockscreen -w dim                                                                            #Load betterlockscreen
 #exec --no-startup-id sudo powertop --auto-tune                                                                         #Load powertop
 exec_always --no-startup-id greenclip daemon                                                                            #Load greenclip
