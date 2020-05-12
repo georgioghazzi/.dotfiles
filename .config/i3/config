@@ -25,8 +25,8 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec termite
-bindsym $mod+Shift+Return exec "termite -t FLOATING_TERMITE"
+bindsym $mod+Return exec "termite -t FLOATING_TERMITE"
+bindsym $mod+Shift+Return exec termite
 
 
 
@@ -65,6 +65,10 @@ bindsym $mod+Shift+space floating toggle
 # change focus between tiling / floating windows
 bindsym $mod+space focus mode_toggle
 
+
+
+workspace_auto_back_and_forth yes
+
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
 set $ws1 "1: Terminal"
@@ -76,7 +80,7 @@ set $ws6 "6: Multimedia"
 set $ws7 "7: Misc"
 set $ws8 "8"
 set $ws9 "9"
-set $ws10 "10"
+set $ws10 "10:  Desktop"
 
 # switch to workspace
 bindsym $mod+1 workspace $ws1
@@ -88,7 +92,8 @@ bindsym $mod+6 workspace $ws6
 bindsym $mod+7 workspace $ws7
 bindsym $mod+8 workspace number $ws8
 bindsym $mod+9 workspace number $ws9
-bindsym $mod+0 workspace number $ws10
+bindsym $mod+x workspace  $ws10
+
 
 
 # move focused container to workspace
@@ -101,7 +106,7 @@ bindsym $mod+Shift+6 move container to workspace $ws6
 bindsym $mod+Shift+7 move container to workspace $ws7
 bindsym $mod+Shift+8 move container to workspace number $ws8
 bindsym $mod+Shift+9 move container to workspace number $ws9
-bindsym $mod+Shift+0 move container to workspace number $ws10
+bindsym $mod+Shift+0 move container to workspace $ws10
 
 
 
@@ -170,7 +175,6 @@ exec  --no-startup-id $HOME/.config/i3/scripts/startup.sh
 exec_always --no-startup-id $HOME/.config/i3/scripts/polybar.sh	                                                        #Polybar
 exec --no-startup-id nm-applet                                                                                          #NetworkManager
 exec feh --bg-scale ~/Pictures/bg.jpg                                                                                   #Feh Background Image
-#exec --no-startup-id mpd                                                                                                #MPD
 exec --no-startup-id /usr/bin/firefox                                                                                   #Firefox
 exec --no-startup-id /usr/bin/franz                                                                                #Franz
 exec --no-startup-id /usr/bin/discord 
@@ -181,7 +185,7 @@ exec --no-startup-id picom -cb
 exec --no-startup-id betterlockscreen -w dim                                                                            #Load betterlockscreen
 #exec --no-startup-id sudo powertop --auto-tune                                                                         #Load powertop
 exec_always --no-startup-id greenclip daemon                                                                            #Load greenclip
-
+exec_always --no-startup-id conky
 
  ################
  #  Assignmets  #
@@ -193,4 +197,4 @@ assign [class="Google-chrome"] $ws2
 assign [class="code-oss"] $ws3
 assign [class="Franz"] $ws4
 assign [class="discord"] $ws5
-  
+assign [class="conky"] $ws1  

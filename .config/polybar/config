@@ -31,7 +31,7 @@ font-4 = FontAwesome5Free:style=Regular:size=11;1
 font-5 = FontAwesome5Brands:style=Regular:size=11;1
 
 modules-left =i3 mpd-local
-modules-center =date time 
+modules-center=date time
 modules-right = xkeyboard ping memory backlight ip-wlan ip-eth  battery temperature volume poweroff
 
 tray-position = right
