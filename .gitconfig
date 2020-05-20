@@ -1,3 +1,5 @@
 [user]
 	email = ghazzi94@gmail.com
 	name = Georgio Ghazzi
+[credential]
+	helper = store
