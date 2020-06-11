@@ -8,13 +8,12 @@
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
 # See /usr/share/doc/bash-doc/examples in the bash-doc package.
-if [ -f ~/.bash_aliases ]; then
+if [ -f ~/.bash_aliases ] ; then
     . ~/.bash_aliases
 fi
 
 
 export TERM=xterm-256color
-
 export PATH=~/.npm-global/bin:$PATH
 
 
@@ -26,7 +25,6 @@ export PATH=$PATH:$ANDROID_SDK_ROOT/emulator
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk
 export PATH=${PATH}:${JAVA_HOME}/bin
 export PATH=$PATH:$HOME/.local/bin
-
 
 
 
